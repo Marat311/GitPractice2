@@ -5,3 +5,4 @@ public class Happy_Birthday {
         System.out.println("Happy birthday");
     }
 }
+
